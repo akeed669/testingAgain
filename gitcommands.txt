@@ -1,0 +1,7 @@
+git add sample.txt
+git add .
+git commit -m "a message"
+git log
+git status
+git diff john.txt
+git checkout mary.txt
